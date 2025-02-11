@@ -1,0 +1,424 @@
+Breast neoplasm
+Hereditary breast cancer
+Male breast cancer
+Male breast cancer genetics
+Male breast cancer treatment
+biomarkers
+breast cancer
+checkpoint inhibitors
+immunotherapy
+Biomarker
+Breast cancer
+CircRNA
+Diagnosis
+Treatment
+breast cancer
+clinical sequencing
+co-occurrence
+multi-omics
+mutual exclusivity
+precision treatment
+breast cancer
+health maintenance
+side effects
+surveillance
+survivorship
+Breast cancer
+Cancer-associated fibroblast
+Immune resistance
+Therapeutic approach
+Tumor microenvironment
+Tumor-associated macrophage
+Breast cancer
+Chemo-sensitizers
+Co-delivery of drug and genes
+Drug resistance
+Novel anti-neoplastic agents
+Breast cancer
+Cancer immunotherapy
+Combination therapy
+Oncolytic virus
+Advanced breast cancer
+Breast cancer
+Capivasertib
+Datopotamab deruxtecan
+Elacestrant
+Metastatic breast cancer
+Sacituzumab govitecan
+Breast cancer
+Hyperthermia
+Oxygen delivery
+Thermo-radiotherapy
+Tumour hypoxia
+Tumour oxygenation status
+Breast cancer
+Chronotherapy
+Circadian gene regulation
+Circadian rhythms
+Tumor microenvironment
+Breast cancer
+Oligometastatic
+Oligoprogressive
+Stereotactic body radiotherapy
+Aromatase
+Aryl hydrocarbon receptor (AHR)
+Breast cancer
+Breast cancer recurrence
+Cancer-associated adipocytes (CAAs)
+Cyclin D1
+Estrogen
+Estrogen receptor (ER)
+Estrone
+Fatty acid
+Human epidermal growth factor receptor 2 (HER2)
+Hyperinsulinemia
+Hypoxia
+Insulin resistance
+Insulin-like growth factor (IGF)
+Leptin resistance
+Liver X receptor (LXR)
+Mammalian target of rapamycin (mTOR)
+Obesity
+Oxysterol 27-hydroxycholesterol (27HC)
+Postmenopausal breast cancer
+Premenopausal breast cancer
+Progesterone receptor (PR)
+Sex hormone-binding globulin (SHBG)
+Adiponectin
+diagnosis of MBC
+epidemiology
+male breast cancer
+risk factors
+treatment modalities
+Breast cancer surgery
+Diagnosis
+Genomics
+Imaging
+Lobular breast cancer
+Treatment
+apoptosis
+autophagy
+breast cancer
+cuproptosis
+ferroptosis
+necroptosis
+pyroptosis
+Breast
+Cancer
+Epidemiology
+Inflammatory
+Risk factors
+Survival
+genetic characteristics
+immunotherapy
+metaplastic breast cancer
+protein molecular characteristics
+targeted therapy
+breast cancer
+drug screening
+organoids
+personalized treatment
+tumor research models
+Breast cancer
+Crosstalk
+Post-translational modifications
+SUMOylation
+Breast cancer
+RNA
+RNA-binding protein
+Therapeutic targets
+Breast cancer
+Deep learning
+Diagnosis
+Prognosis
+Treatment
+BI-2536
+PANoptosis
+breast cancer
+immunotherapy
+machine learning
+HER2
+HER2-low
+breast cancer
+predictive
+prognostic
+breast cancer
+extracellular matrix
+microbiome
+tumorigenesis
+Antibody–drug conjugate
+biomarker
+breast cancer
+diagnosis
+immunohistochemistry
+prognosis
+reverse-phase protein array
+subtype
+apoptosis
+breast cancer
+cuproptosis
+ferroptosis
+pyroptosis
+regulatory cell death
+Breast cancer
+Drug resistance
+Epigenetic regulation
+Epigenetic therapy
+Immune cells
+Tumor microenvironment
+Breast cancer
+biomarkers
+cancer
+recurrence
+resistance
+targeted therapy.
+breast cancer
+coregulators
+endocrine dependency
+endocrine treatment resistance
+estrogen receptor alpha
+therapeutic perspectives
+transcription
+Breast cancer
+Chromatin regulators
+Cofactors
+ER
+Epigenetics
+Epigenomics
+Gene expression
+Genomics
+Therapy response
+Transcription factors
+Breast cancer
+G6PD
+Metabolism
+TKT
+BRCA genes
+Hereditary breast cancer
+Multi-gene panel testing
+NGS
+VUS
+breast cancer
+breast cancer in young
+gene expression
+tumor microenvironment
+Cancer neuroscience
+Innervation
+Neural microenvironment
+Neuro-dependence
+Peripheral nerve damage
+breast cancer
+exosomes
+extracellular vesicles
+tumor microenvironment
+Breast cancer
+Diagnosis
+Exosomes
+Extracellular vesicles
+Therapy
+Axillary management
+Breast cancer in young women
+Chemotherapy for breast cancer
+Contralateral prophylactic mastectomy
+Early onset breast cancer
+Landmark clinical trials
+Management of breast cancer
+Premenopausal breast cancer
+Radiation for breast cancer
+Surgery for breast cancer
+T cell immunotherapy
+amino acid
+breast cancer
+glucose
+immune escape
+lipid
+metabolic reprogramming
+Breast cancer
+Oncogenic viruses
+Viral infections
+AR-V7 splice variant
+androgen receptor
+breast cancer
+combination therapy
+targeted therapy
+Breast cancer
+Diagnosis
+MiR-192
+MiR-192 family
+MiR-194
+MiR-215
+Breast cancer
+CRISPR
+Cas13 screen
+Cell proliferation
+DNA replication
+GWAS
+Genetic variants
+Long noncoding RNA
+lncRNA
+Breast cancer
+navigation
+supportive care program
+survivorship
+young women
+Breast cancer
+DNA repair
+Menin
+Multiple endocrine neoplasia type 1 (MEN1)
+Targeted therapy
+Breast cancer
+Chemotherapy
+Endocrine therapy
+NF-κB
+Resistance
+Targeted therapy
+Breast cancer
+Cancer therapy
+Physical exercises
+Resistance
+Breast cancer subtypes
+Incidence
+Menopausal hormone therapy
+Mortality
+Survival
+Biomarker
+Breast cancer
+Drug resistance
+Metastasis
+Proliferation
+circRNA
+Breast cancer detection
+Breast cancer precursor lesions
+DCIS
+Ductal carcinoma in situ
+Breast MRI
+Breast cancer
+CEM
+Cryoablation
+Ultrasound
+Advanced-stage cancer
+Breast cancer
+Cancer diagnosis
+Delayed diagnosis
+Ethiopia
+Physical activity
+breast cancer
+quality of life
+CAR-T
+GD2
+GD3
+breast cancer stem cells
+clinical trials
+immunotherapy
+naxitamab
+review
+triple negative breast cancer
+Breast cancer
+hyperoxic-hypoxic enigma
+hypoxia
+hypoxia paradox
+hypoxia-inducible factors
+metastasis.
+breast cancer
+cancer associated fibroblast
+cancer stem cells
+progesterone receptor
+Extracellular vesicles
+Liquid biopsy
+MicroRNA
+Breast cancer
+ctDNA
+imaging
+liquid biopsy
+radiomics
+Breast cancer
+Drug resistance
+Pathogenesis
+Progression
+Toll-like receptors (TLRs)
+Breast Cancer
+Epidemiology
+Ethiopia
+Systematic review
+DNA methylation
+Epigenetics
+breast cancer
+prognosis
+treatment.
+triple-negative breast cancer
+Antihistamine
+Breast cancer
+Histamine
+Angiogenesis
+breast cancer
+chemotherapy
+drug resistance
+immunologic therapy
+tumor microenvironment (TME)
+vascular normalization
+breast cancer
+cancer vaccine
+hydrogel
+nanoparticles
+vaccine kinetics
+Arm
+Illusion
+Mastectomy
+Mirror feedback
+Pain
+Breast cancer
+HER2
+Neoadjuvant chemotherapy
+Positive
+Biomarker
+Breast cancer
+MRPL13
+Metastatic
+Silico analysis
+Biomarker
+Breast cancer
+Cancer diagnostics
+MiR-21 overexpression
+MiRNA testing
+Apoptosis
+Breast cancer
+EMT
+GAS5
+Prognostic biomarker
+Tumor aggressiveness
+HER2+ breast cancer
+Neoadjuvant systemic therapy
+Surgical management
+Triple negative breast cancer
+Breast Neoplasms
+Machine Learning
+Magnetic Resonance Imaging
+Radiomics
+Tumor Microenvironment
+Breast neoplasms
+Cancer
+Complaints
+Short and long-term morbidity
+Survivors
+Physiotherapy
+Quality of Life
+breast cancer
+kinesiotherapy
+mastectomy
+Histopathology
+Immunohistochemistry
+Inflammatory breast cancer
+Tumor emboli
+Tumor microenvironment
+Breast cancer
+Integrin β1
+Molecular mechanism
+Targeted therapy
+Therapeutic tolerance
+CiteSpace
+VOSviewer
+bibliometric analysis
+breast cancer
+immunotherapy resistance
+mechanisms
+tumor microenvironment
