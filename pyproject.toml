@@ -5,13 +5,19 @@ description = ""
 authors = ["Vladimir <vladimir.pereverzev@nvi-reseach.com>"]
 readme = "README.md"
 packages = [{include = "cluster_embeddings"}]
+include = [
+    { path = "input_data", format = ["sdist", "wheel"]}, 
+    { path = "output_data", format = ["sdist", "wheel"] }
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-numpy = "^2.2.2"
+numpy = "1.26.4"
 h5py = "^3.12.1"
 torch = "^2.6.0"
 scikit-learn = "^1.6.1"
+spacy = "3.4.1" 
+en_ner_bc5cdr_md = { path = "../cluster_embeddings/en_ner_bc5cdr_md-0.5.1.tar.gz" }
 
 [build-system]
 requires = ["poetry-core"]

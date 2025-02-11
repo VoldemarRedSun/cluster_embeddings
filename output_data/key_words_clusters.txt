@@ -1,0 +1,20 @@
+CLUSTER 1 CONTAINS: 
+Breast neoplasm ,Hereditary breast cancer ,Male breast cancer ,Male breast cancer genetics ,Male breast cancer treatment
+CLUSTER 7 CONTAINS: 
+biomarkers ,Biomarker ,clinical sequencing ,multi-omics ,Therapeutic approach
+CLUSTER 9 CONTAINS: 
+checkpoint inhibitors ,immunotherapy ,Chemo-sensitizers ,Co-delivery of drug and genes ,Novel anti-neoplastic agents
+CLUSTER 8 CONTAINS: 
+CircRNA ,mutual exclusivity ,Elacestrant ,Estrone ,RNA
+CLUSTER 3 CONTAINS: 
+Diagnosis ,Treatment ,surveillance ,Breast ,Cancer
+CLUSTER 2 CONTAINS: 
+co-occurrence ,precision treatment ,health maintenance ,side effects ,survivorship
+CLUSTER 4 CONTAINS: 
+Tumor microenvironment ,Tumor-associated macrophage ,Circadian gene regulation ,Circadian rhythms ,epidemiology
+CLUSTER 0 CONTAINS: 
+Capivasertib ,diagnosis of MBC ,cuproptosis ,ferroptosis ,necroptosis
+CLUSTER 6 CONTAINS: 
+Tumour hypoxia ,Aromatase ,Aryl hydrocarbon receptor (AHR) ,Cancer-associated adipocytes (CAAs) ,Cyclin D1
+CLUSTER 5 CONTAINS: 
+Prognosis ,prognostic ,prognosis

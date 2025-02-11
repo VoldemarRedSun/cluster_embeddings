@@ -6,15 +6,12 @@ import numpy as np
 import torch
 from sklearn.cluster import KMeans
 
-H5_EMBEDDINGS_PATH = Path(__file__).parent.parent / "key_words.h5"
+H5_EMBEDDINGS_PATH = Path(__file__).parent.parent / "input_data"/"key_words.h5"
+ENTITIES_PATH = Path(__file__).parent.parent/ "input_data" / "key_words.txt"
 
-EMBEDDINGS_ENTITIES_PATH = Path(__file__).parent.parent / "key_words.pt"
-
-ENTITIES_PATH = Path(__file__).parent.parent / "key_words.txt"
-
-ENTITIES_CLUSTERS_PATH = Path(__file__).parent.parent / "key_words_clusters.json"
-
-PRETTY_OUTPUT_PATH = Path(__file__).parent.parent / "key_words_clusters.txt"
+EMBEDDINGS_ENTITIES_PATH = Path(__file__).parent.parent / "output_data"/  "key_words.pt"
+ENTITIES_CLUSTERS_PATH = Path(__file__).parent.parent / "output_data" / "key_words_clusters.json"
+PRETTY_OUTPUT_PATH = Path(__file__).parent.parent / "output_data" /"key_words_clusters.txt"
 
 
 def from_h5_to_pt(
@@ -72,5 +69,7 @@ def run_cluster_embedding_pipeline():
 
 
 if __name__ == "__main__":
-    from_h5_to_pt(H5_EMBEDDINGS_PATH, ENTITIES_PATH, EMBEDDINGS_ENTITIES_PATH) #run for save embeddings from biobert in comfort format
+    from_h5_to_pt(
+        H5_EMBEDDINGS_PATH, ENTITIES_PATH, EMBEDDINGS_ENTITIES_PATH
+    )  # run for save embeddings from biobert in comfort format
     run_cluster_embedding_pipeline()  # run for save clusters with entities
